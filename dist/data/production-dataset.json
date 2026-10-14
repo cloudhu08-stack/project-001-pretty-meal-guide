@@ -1,0 +1,2202 @@
+{
+  "menu_schema_version": "V1.3.1 FROZEN",
+  "generated_at": "2026-10-03",
+  "directory": [
+    {
+      "id": "taian-table",
+      "record_index": 0,
+      "display_name": "Taian Table 泰安门",
+      "cuisine": {
+        "label": "未从已保留来源确认",
+        "source_id": null
+      },
+      "food_style": {
+        "label": "10 道品鉴套餐",
+        "source_id": "src_taian_menu_54"
+      },
+      "positioning": {
+        "label": "Menu 54 十道精选套餐",
+        "source_id": "src_taian_menu_54"
+      },
+      "address": {
+        "city": "上海",
+        "district": "静安区",
+        "full": "静安区镇宁路465弄161号",
+        "source_id": "src_taian_menu_54"
+      },
+      "access": {
+        "opening_hours": [],
+        "dress_code": null,
+        "reservation": null,
+        "walk_in": null
+      }
+    },
+    {
+      "id": "fu-he-hui",
+      "record_index": 1,
+      "display_name": "Fu He Hui 福和慧",
+      "cuisine": {
+        "label": "Vegetarian",
+        "source_id": "src_michelin_fhh"
+      },
+      "food_style": {
+        "label": "Seasonal fixed menu",
+        "source_id": "src_michelin_fhh"
+      },
+      "positioning": {
+        "label": "季节性素食固定套餐",
+        "source_id": "src_michelin_fhh"
+      },
+      "address": {
+        "city": "上海",
+        "district": "长宁区",
+        "full": "长宁区愚园路1037号",
+        "source_id": "src_michelin_fhh"
+      },
+      "access": {
+        "opening_hours": [],
+        "dress_code": null,
+        "reservation": null,
+        "walk_in": null
+      }
+    },
+    {
+      "id": "sushi-oyama",
+      "record_index": 2,
+      "display_name": "Sushi Oyama 鮨 大山",
+      "cuisine": {
+        "label": "Sushi / Japanese",
+        "source_id": "src_referchina_interview_2025_11"
+      },
+      "food_style": {
+        "label": "Dynamic omakase",
+        "source_id": "src_referchina_interview_2025_11"
+      },
+      "positioning": {
+        "label": "按当日食材决定的主厨发办",
+        "source_id": "src_referchina_interview_2025_11"
+      },
+      "address": {
+        "city": "上海",
+        "district": "黄浦区",
+        "full": "新天地广场3层 E-L361，吉安路29号",
+        "source_id": "src_referchina_interview_2025_11"
+      },
+      "access": {
+        "opening_hours": [],
+        "dress_code": null,
+        "reservation": null,
+        "walk_in": null
+      }
+    },
+    {
+      "id": "bombana",
+      "record_index": 3,
+      "display_name": "8½ Otto e Mezzo BOMBANA",
+      "cuisine": {
+        "label": "Italian",
+        "source_id": "src_michelin_bombana"
+      },
+      "food_style": {
+        "label": "À la carte, lunch set and tasting",
+        "source_id": "src_michelin_bombana"
+      },
+      "positioning": {
+        "label": "意大利精致餐饮",
+        "source_id": "src_michelin_bombana"
+      },
+      "address": {
+        "city": "上海",
+        "district": "黄浦区",
+        "full": "黄浦区圆明园路169号协进大楼6–7层",
+        "source_id": "src_official_shanghai_branch"
+      },
+      "access": {
+        "opening_hours": [],
+        "dress_code": null,
+        "reservation": {
+          "label": "官方关联订位入口",
+          "url": "https://widget.mozrest.com/?bgColor=ffffffff&key=619e53c7b964bafe32e3e87c&rpId=506702",
+          "source_id": "src_mozrest_reservation_widget"
+        },
+        "walk_in": null
+      }
+    },
+    {
+      "id": "da-vittorio",
+      "record_index": 4,
+      "display_name": "Da Vittorio Shanghai",
+      "cuisine": {
+        "label": "Italian",
+        "source_id": "src_da_official_restaurant"
+      },
+      "food_style": {
+        "label": "Seafood-focused Italian",
+        "source_id": "src_da_official_restaurant"
+      },
+      "positioning": {
+        "label": "海鲜为核心的意大利精致餐饮",
+        "source_id": "src_da_official_restaurant"
+      },
+      "address": {
+        "city": "上海",
+        "district": "黄浦区",
+        "full": "黄浦区中山东二路600号 BFC 北区 N3 栋3层",
+        "source_id": "src_da_official_restaurant"
+      },
+      "access": {
+        "opening_hours": [
+          "周二至周日 · 午餐 12:00–13:30",
+          "周二至周日 · 晚餐 18:00–21:30"
+        ],
+        "opening_hours_source_id": "src_da_official_restaurant",
+        "dress_code": null,
+        "reservation": {
+          "label": "官方关联订位入口",
+          "url": "https://resvea.com/en/restaurant/davittorioshanghai/",
+          "source_id": "src_da_reservation_platform"
+        },
+        "walk_in": null
+      }
+    },
+    {
+      "id": "yi-long-court",
+      "record_index": 5,
+      "display_name": "Yi Long Court 逸龙阁",
+      "cuisine": {
+        "label": "Cantonese",
+        "source_id": "src_ylc_official_restaurant"
+      },
+      "food_style": {
+        "label": "Cantonese à la carte, dim sum and set menus",
+        "source_id": "src_ylc_official_restaurant"
+      },
+      "positioning": {
+        "label": "半岛酒店粤菜餐厅",
+        "source_id": "src_ylc_official_restaurant"
+      },
+      "address": {
+        "city": "上海",
+        "district": "黄浦区",
+        "full": "黄浦区中山东一路32号上海半岛酒店2层",
+        "source_id": "src_ylc_official_restaurant"
+      },
+      "access": {
+        "opening_hours": [
+          "午餐 11:30–14:30",
+          "晚餐 18:00–22:30"
+        ],
+        "opening_hours_source_id": "src_ylc_official_restaurant",
+        "dress_code": {
+          "label": "Smart Casual Suggested",
+          "source_id": "src_ylc_official_restaurant"
+        },
+        "reservation": {
+          "label": "官方餐厅订位页",
+          "url": "https://www.peninsula.com/en/shanghai/hotel-fine-dining/yi-long-court",
+          "source_id": "src_ylc_official_restaurant"
+        },
+        "walk_in": null
+      }
+    }
+  ],
+  "records": [
+    {
+      "schema_version": "V1.3.1 FROZEN",
+      "target_date": "2026-10-03",
+      "ingested_at": "2026-10-03",
+      "page_updated_at": null,
+      "restaurant": {
+        "name": "Taian Table / 泰安门",
+        "city": "Shanghai",
+        "location_text": "静安区镇宁路465弄161号",
+        "official_url": "https://sh.taian-table.cn/",
+        "operating_status": "UNCONFIRMED",
+        "operating_status_as_of": "2026-10-03",
+        "operating_status_source_id": null
+      },
+      "menus": [
+        {
+          "id": "taian-table-menu-54",
+          "name": "Menu 54 十道精选套餐",
+          "menu_type": "TASTING_MENU",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_taian_menu_54",
+          "record_status": "CURRENT_CONFIRMED",
+          "content_variability": "SEASONAL",
+          "price": {
+            "amount": 2888,
+            "currency": "CNY",
+            "scope": "PER_PERSON",
+            "source_id": "src_taian_menu_54"
+          },
+          "price_options": [],
+          "menu_recorded_at": "2026-07-10",
+          "menu_recorded_at_precision": "DAY",
+          "opening": [],
+          "courses": [
+            {
+              "id": "taian-course-01",
+              "sequence": 1,
+              "sequence_confidence": "CONFIRMED",
+              "name": "皇御生蚝 No.2",
+              "description_or_components": [
+                "若芽",
+                "昆布油",
+                "酸奶"
+              ],
+              "role": "COURSE",
+              "role_confidence": "CONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-course-02",
+              "sequence": 2,
+              "sequence_confidence": "CONFIRMED",
+              "name": "黄鰤鱼",
+              "description_or_components": [
+                "白芦笋",
+                "马鞭草",
+                "辣根"
+              ],
+              "role": "COURSE",
+              "role_confidence": "CONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-course-03",
+              "sequence": 3,
+              "sequence_confidence": "CONFIRMED",
+              "name": "韩式牛肉塔塔",
+              "description_or_components": [
+                "秋月梨",
+                "韩式辣椒"
+              ],
+              "role": "COURSE",
+              "role_confidence": "CONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-course-04",
+              "sequence": 4,
+              "sequence_confidence": "CONFIRMED",
+              "name": "扇贝",
+              "description_or_components": [
+                "泰式椰香鸡汤",
+                "鹅肝冰淇淋"
+              ],
+              "role": "COURSE",
+              "role_confidence": "CONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-course-05",
+              "sequence": 5,
+              "sequence_confidence": "CONFIRMED",
+              "name": "烤帝王蟹",
+              "description_or_components": [
+                "豆瓣酱",
+                "柑橘萨巴雍"
+              ],
+              "role": "COURSE",
+              "role_confidence": "CONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-course-06-agnolotti",
+              "sequence": 6,
+              "sequence_confidence": "CONFIRMED",
+              "name": "意饺 / Agnolotti",
+              "description_or_components": [
+                "牛肝菌",
+                "野蒜"
+              ],
+              "role": "COURSE",
+              "role_confidence": "CONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-course-07",
+              "sequence": 7,
+              "sequence_confidence": "CONFIRMED",
+              "name": "油封山东大菱鲆",
+              "description_or_components": [
+                "番茄浓汤",
+                "洋蓟",
+                "咖喱叶"
+              ],
+              "role": "COURSE",
+              "role_confidence": "CONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-course-08",
+              "sequence": 8,
+              "sequence_confidence": "CONFIRMED",
+              "name": "广东鸡",
+              "description_or_components": [
+                "红虾",
+                "汝拉黄酒"
+              ],
+              "role": "COURSE",
+              "role_confidence": "CONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-course-09",
+              "sequence": 9,
+              "sequence_confidence": "CONFIRMED",
+              "name": "紫苏雪葩",
+              "description_or_components": [
+                "樱花",
+                "草莓"
+              ],
+              "role": "COURSE",
+              "role_confidence": "CONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-course-10",
+              "sequence": 10,
+              "sequence_confidence": "CONFIRMED",
+              "name": "抹茶蛋糕",
+              "description_or_components": [
+                "樱桃",
+                "脆米"
+              ],
+              "role": "COURSE",
+              "role_confidence": "CONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            }
+          ],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [
+            {
+              "id": "taian-unclassified-1",
+              "sequence": 1,
+              "sequence_confidence": "CONFIRMED",
+              "name": "杨梅茶",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-unclassified-2",
+              "sequence": 2,
+              "sequence_confidence": "CONFIRMED",
+              "name": "尼斯塔可",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-unclassified-3",
+              "sequence": 3,
+              "sequence_confidence": "CONFIRMED",
+              "name": "叉烧包·金橘",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            },
+            {
+              "id": "taian-unclassified-4",
+              "sequence": 4,
+              "sequence_confidence": "CONFIRMED",
+              "name": "卡普雷赛·希腊橄榄",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_taian_menu_54"
+            }
+          ],
+          "supplements": [
+            {
+              "name": "澳洲黑松露",
+              "parent_item_id": "taian-course-06-agnolotti",
+              "price": {
+                "amount": 68,
+                "currency": "CNY",
+                "scope": "PER_GRAM",
+                "source_id": "src_taian_menu_54"
+              },
+              "source_id": "src_taian_menu_54"
+            }
+          ],
+          "pairings": [
+            {
+              "type": "WINE",
+              "name": "德国葡萄酒搭配",
+              "price": {
+                "amount": 1698,
+                "currency": "CNY",
+                "scope": "PER_PERSON",
+                "source_id": "src_taian_wine_list"
+              },
+              "source_id": "src_taian_wine_list",
+              "course_mapping": "UNCONFIRMED"
+            },
+            {
+              "type": "WINE",
+              "name": "高级葡萄酒搭配",
+              "price": {
+                "amount": 2488,
+                "currency": "CNY",
+                "scope": "PER_PERSON",
+                "source_id": "src_taian_wine_list"
+              },
+              "source_id": "src_taian_wine_list",
+              "course_mapping": "UNCONFIRMED"
+            }
+          ],
+          "source_ids": [
+            "src_taian_menu_54",
+            "src_taian_wine_list"
+          ],
+          "overall_confidence": "HIGH",
+          "primary_evidence_type": "OFFICIAL",
+          "uncertainties": [
+            "The official menu does not visibly label a section for individual dishes; all section fields remain UNKNOWN.",
+            "The four first-listed items are preserved in source order, but their meal roles are not explicitly labelled and therefore remain UNKNOWN.",
+            "The reviewed wine list does not explicitly map either pairing to Menu 54."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src_taian_menu_54",
+          "evidence_type": "OFFICIAL",
+          "label": "Taian Table Shanghai Menu 54 PDF",
+          "url_or_artifact": "https://sh.taian-table.cn/wp-content/uploads/2026/07/20260710_MENU_54_V51.pdf",
+          "traceability_status": "VERIFIED",
+          "published_at": "2026-07-10",
+          "published_at_precision": "DAY",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "Menu 54",
+            "ten-course tasting-menu form",
+            "¥2,888 per person",
+            "dish sequence",
+            "Agnolotti black-truffle supplement"
+          ]
+        },
+        {
+          "id": "src_taian_wine_list",
+          "evidence_type": "OFFICIAL",
+          "label": "Taian Table Shanghai wine list PDF",
+          "url_or_artifact": "https://sh.taian-table.cn/wp-content/uploads/2026/07/20260714_List_V1581.pdf",
+          "traceability_status": "VERIFIED",
+          "published_at": "2026-07-14",
+          "published_at_precision": "DAY",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "wine pairing names",
+            "pairing prices"
+          ]
+        }
+      ],
+      "migration": {
+        "migrated_from": "reviewed Taian Table case",
+        "migration_date": "2026-10-03",
+        "information_loss": false
+      }
+    },
+    {
+      "schema_version": "V1.3.1 FROZEN",
+      "target_date": null,
+      "ingested_at": "2026-10-02",
+      "page_updated_at": null,
+      "restaurant": {
+        "name": "Fu He Hui / 福和慧",
+        "city": "Shanghai",
+        "location_text": "长宁区愚园路1037号",
+        "official_url": null,
+        "operating_status": "UNCONFIRMED",
+        "operating_status_as_of": "2026-10-02",
+        "operating_status_source_id": null
+      },
+      "menus": [
+        {
+          "id": "fu-he-hui-menu-1",
+          "name": "UNKNOWN",
+          "menu_type": "FIXED_MENU",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_michelin_fhh",
+          "price": {
+            "amount": 998,
+            "currency": "CNY",
+            "scope": "PER_PERSON",
+            "source_id": "src_fhh_diner_2026_08"
+          },
+          "price_options": [],
+          "content_variability": "SEASONAL",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [
+            {
+              "id": "fhh-item-perilla",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Perilla",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            },
+            {
+              "id": "fhh-item-dou-bao",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Dou Bao",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            },
+            {
+              "id": "fhh-item-popiah",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Popiah",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            },
+            {
+              "id": "fhh-item-luffa",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Luffa",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            },
+            {
+              "id": "fhh-item-eggplant",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Eggplant",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            },
+            {
+              "id": "fhh-item-zucchini-flower",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Zucchini Flower",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            },
+            {
+              "id": "fhh-item-puer-bamboo-shoot",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Pu’er Bamboo Shoot",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            },
+            {
+              "id": "fhh-item-mushroom",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Mushroom",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            },
+            {
+              "id": "fhh-item-wonton",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Wonton",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            },
+            {
+              "id": "fhh-item-cucumber",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Cucumber",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            },
+            {
+              "id": "fhh-item-lotus-root",
+              "sequence": null,
+              "sequence_confidence": "UNCONFIRMED",
+              "name": "Lotus Root",
+              "description_or_components": [],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "source_id": "src_fhh_diner_2026_08",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED"
+            }
+          ],
+          "record_status": "HISTORICAL",
+          "menu_recorded_at": "2026-08",
+          "menu_recorded_at_precision": "MONTH",
+          "pairings": [
+            {
+              "type": "TEA",
+              "name": "Tea Pairing",
+              "price": {
+                "amount": 298,
+                "currency": "CNY",
+                "scope": "PER_PERSON"
+              },
+              "source_id": "src_fhh_diner_2026_08",
+              "course_mapping": "UNCONFIRMED"
+            }
+          ],
+          "supplements": [],
+          "source_ids": [
+            "src_michelin_fhh",
+            "src_fhh_diner_2026_08"
+          ],
+          "overall_confidence": "MEDIUM",
+          "primary_evidence_type": "RECENT_DINER_RECORD",
+          "uncertainties": [
+            "The October 2, 2026 menu is unconfirmed; the item and price evidence is an August 2026 diner record, not an official current menu.",
+            "The diner record's direct URL or artifact was not retained, so the menu price, tea-pairing price, and item names cannot yet be independently traced to the original record.",
+            "The source does not confirm each named item's meal role, printed sequence, components, course count, or whether any items are absent from the record.",
+            "Michelin confirms seasonal fixed-menu service and Chinese tea availability, but does not publish this menu's dish list, ¥998 price, or +¥298 tea-pairing price."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src_michelin_fhh",
+          "evidence_type": "AUTHORITATIVE_SECONDARY",
+          "label": "Michelin Guide — 福和慧",
+          "url_or_artifact": "https://guide.michelin.com/sg/zh_CN/shanghai-municipality/shanghai/restaurant/fu-he-hui",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-02",
+          "facts_supported": [
+            "restaurant name",
+            "Shanghai address",
+            "vegetarian cuisine",
+            "fixed-menu availability",
+            "seasonal menu changes",
+            "Chinese tea availability"
+          ]
+        },
+        {
+          "id": "src_fhh_diner_2026_08",
+          "evidence_type": "RECENT_DINER_RECORD",
+          "label": "User-supplied recent diner menu record, August 2026",
+          "url_or_artifact": null,
+          "traceability_status": "UNCONFIRMED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-02",
+          "facts_supported": [
+            "¥998 per-person menu price",
+            "Tea Pairing +¥298",
+            "11 named menu items",
+            "menu observation month"
+          ]
+        }
+      ],
+      "migration": {
+        "migrated_from": "V1.2",
+        "migration_date": "2026-10-03",
+        "information_loss": false
+      }
+    },
+    {
+      "schema_version": "V1.3.1 FROZEN",
+      "target_date": null,
+      "ingested_at": "2026-10-03",
+      "page_updated_at": null,
+      "restaurant": {
+        "name": "Sushi Oyama / 鮨 大山",
+        "city": "Shanghai",
+        "location_text": "E-L361, 3/F, Xintiandi Galleria, 29 Ji’an Road / 吉安路29号3层E-L361",
+        "official_url": null,
+        "operating_status": "UNCONFIRMED",
+        "operating_status_as_of": "2026-10-03",
+        "operating_status_source_id": null
+      },
+      "menus": [
+        {
+          "id": "sushi-oyama-menu-1",
+          "name": "Omakase",
+          "menu_type": "OMAKASE_DYNAMIC_MENU",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_referchina_interview_2025_11",
+          "content_variability": "DYNAMIC_BY_SERVICE",
+          "price": {
+            "amount": null,
+            "currency": "CNY",
+            "scope": "PER_PERSON",
+            "source_id": null
+          },
+          "price_options": [
+            {
+              "label": "Lunch Omakase",
+              "amount": 800,
+              "currency": "CNY",
+              "scope": "PER_PERSON",
+              "service_period": "LUNCH",
+              "status": "HISTORICAL",
+              "recorded_at": "2025-11",
+              "recorded_at_precision": "MONTH",
+              "source_ids": [
+                "src_referchina_interview_2025_11",
+                "src_nomfluence_review_2025_11"
+              ]
+            },
+            {
+              "label": "Dinner Omakase",
+              "amount": 980,
+              "currency": "CNY",
+              "scope": "PER_PERSON",
+              "service_period": "DINNER",
+              "status": "HISTORICAL",
+              "recorded_at": "2025-11",
+              "recorded_at_precision": "MONTH",
+              "source_ids": [
+                "src_nomfluence_review_2025_11"
+              ]
+            },
+            {
+              "label": "Dinner Omakase",
+              "amount": 1280,
+              "currency": "CNY",
+              "scope": "PER_PERSON",
+              "service_period": "DINNER",
+              "status": "HISTORICAL",
+              "recorded_at": "2025-11",
+              "recorded_at_precision": "MONTH",
+              "source_ids": [
+                "src_referchina_interview_2025_11",
+                "src_nomfluence_review_2025_11"
+              ]
+            }
+          ],
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [],
+          "record_status": "HISTORICAL",
+          "menu_recorded_at": "2025-11",
+          "menu_recorded_at_precision": "MONTH",
+          "pairings": [],
+          "supplements": [],
+          "source_ids": [
+            "src_referchina_interview_2025_11",
+            "src_nomfluence_review_2025_11",
+            "src_nomfluence_directory_observed_2026_10_03"
+          ],
+          "overall_confidence": "LOW",
+          "primary_evidence_type": "MEDIA_EDITORIAL",
+          "uncertainties": [
+            "No official restaurant website, official menu, official reservation page, or live reservation inventory was located for the target date 2026-10-03.",
+            "The restaurant's operation status on 2026-10-03 is unconfirmed. The newest traceable menu evidence is from November 2025.",
+            "All listed prices are historical observations from November 2025 and are not asserted as target-date prices. The ¥980 versus ¥1,280 dinner reports may describe different options; their current availability is unconfirmed.",
+            "No source confirms a sake pairing, its price, or its course mapping; pairings[] is intentionally empty.",
+            "Specific dishes in the November 2025 review are historical diner observations and are intentionally excluded from courses[] and menu_items[] for the target date.",
+            "No current course count, current service-time allocation, or current menu sequence is confirmed."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src_referchina_interview_2025_11",
+          "evidence_type": "MEDIA_EDITORIAL",
+          "label": "Refer China interview with chef-owner Takeo Oyama",
+          "url_or_artifact": "https://www.referchina.com/2025/11/sushi-oyama-is-back-in-shanghai-business.html",
+          "traceability_status": "VERIFIED",
+          "published_at": "2025-11-25",
+          "published_at_precision": "DAY",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "2025 reopening context",
+            "Xintiandi Galleria location",
+            "Omakase is chef's choice",
+            "daily freshness determines menu",
+            "historical course structure",
+            "¥800 lunch price",
+            "¥1,280 dinner price",
+            "historical reservation phone"
+          ]
+        },
+        {
+          "id": "src_nomfluence_review_2025_11",
+          "evidence_type": "MEDIA_EDITORIAL",
+          "label": "NOMFLUENCE review and directory listing",
+          "url_or_artifact": "https://rachelgouk.com/sushi-oyama-shanghai-omakase-masterchef-returns/",
+          "traceability_status": "VERIFIED",
+          "published_at": "2025-11-15",
+          "published_at_precision": "DAY",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "2025 reopening context",
+            "Omakase type",
+            "historical ¥980 or ¥1,280 dinner prices",
+            "historical ¥800 lunch price",
+            "historical meal structure",
+            "historical dish observations"
+          ]
+        },
+        {
+          "id": "src_nomfluence_directory_observed_2026_10_03",
+          "evidence_type": "MEDIA_EDITORIAL",
+          "label": "NOMFLUENCE directory listing observed on ingestion date",
+          "url_or_artifact": "https://rachelgouk.com/listings/sushi-oyama/",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "listing still publicly reachable",
+            "listed Xintiandi address and contact details",
+            "listed historical-looking ¥800 lunch and ¥1,280 dinner values"
+          ],
+          "limitations": [
+            "A directory page reachable on 2026-10-03 is not proof that the restaurant accepted reservations or operated on that date."
+          ]
+        },
+        {
+          "id": "src_cnpp_old_location_listing",
+          "evidence_type": "UNVERIFIED",
+          "label": "CNPP / Brand100 crowd-created old-location listing",
+          "url_or_artifact": "https://www.cnpp100.com/shop/17771.html",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "conflicting legacy Donghu Road address and historical price claims"
+          ],
+          "limitations": [
+            "The page describes itself as crowd-created and conflicts with post-reopening Xintiandi sources; it is excluded from current-menu facts."
+          ]
+        }
+      ],
+      "migration": {
+        "migrated_from": "V1.2",
+        "migration_date": "2026-10-03",
+        "information_loss": false
+      }
+    },
+    {
+      "schema_version": "V1.3.1 FROZEN",
+      "target_date": "2026-10-03",
+      "ingested_at": "2026-10-03",
+      "page_updated_at": null,
+      "restaurant": {
+        "name": "8½ Otto e Mezzo BOMBANA Shanghai",
+        "city": "Shanghai",
+        "location_text": "6-7F, Associate Mission Building, 169 Yuanmingyuan Road, Huangpu District, Shanghai",
+        "official_url": "https://www.ottoemezzobombana.com/branch/shanghai/",
+        "operating_status": "OPEN",
+        "operating_status_as_of": "2026-10-03",
+        "operating_status_source_id": "src_official_shanghai_branch"
+      },
+      "menus": [
+        {
+          "id": "bombana-a-la-carte-2025-10",
+          "name": "À la carte dinner - historical observation",
+          "menu_type": "A_LA_CARTE",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_live2makan_a_la_carte_2025_10",
+          "record_status": "HISTORICAL",
+          "content_variability": "UNKNOWN",
+          "price": {
+            "amount": null,
+            "currency": "UNKNOWN",
+            "scope": "PER_ITEM",
+            "source_id": null
+          },
+          "price_options": [],
+          "menu_recorded_at": "2025-10-11",
+          "menu_recorded_at_precision": "DAY",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [
+            {
+              "id": "bombana-a-la-carte-2025-10-item-1",
+              "sequence": 1,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Scampo",
+              "description_or_components": [
+                "Gently steamed New Zealand scampi, sand chives, Thai basil and scampi bisque."
+              ],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "STARTER",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_live2makan_a_la_carte_2025_10"
+            },
+            {
+              "id": "bombana-a-la-carte-2025-10-item-2",
+              "sequence": 2,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Linguine",
+              "description_or_components": [
+                "Artisanal linguine pasta and fresh sea urchins."
+              ],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_live2makan_a_la_carte_2025_10"
+            },
+            {
+              "id": "bombana-a-la-carte-2025-10-item-3",
+              "sequence": 3,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Piccone",
+              "description_or_components": [
+                "Smoked pigeon, Jerusalem artichoke and pickled mushrooms."
+              ],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "MAIN",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_live2makan_a_la_carte_2025_10"
+            },
+            {
+              "id": "bombana-a-la-carte-2025-10-item-4",
+              "sequence": 4,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Chicco",
+              "description_or_components": [
+                "Traditional Venetian dessert."
+              ],
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "DESSERT",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_live2makan_a_la_carte_2025_10"
+            }
+          ],
+          "supplements": [],
+          "pairings": [],
+          "source_ids": [
+            "src_live2makan_a_la_carte_2025_10"
+          ],
+          "overall_confidence": "LOW",
+          "primary_evidence_type": "MEDIA_EDITORIAL",
+          "uncertainties": [
+            "No item prices were published in the source.",
+            "The article describes Linguine as pasta but does not establish a printed Pasta section in the restaurant's menu.",
+            "This is a historical October 2025 dinner observation, not the target-date a-la-carte menu.",
+            "Current a-la-carte availability and sections on 2026-10-03 are unconfirmed."
+          ]
+        },
+        {
+          "id": "bombana-lunch-set-current-listing",
+          "name": "Lunch set menu",
+          "menu_type": "SET_MENU",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_michelin_bombana",
+          "record_status": "CURRENT_LISTING_NO_PRICE",
+          "content_variability": "UNKNOWN",
+          "price": {
+            "amount": null,
+            "currency": "UNKNOWN",
+            "scope": "PER_PERSON",
+            "source_id": null
+          },
+          "price_options": [],
+          "menu_recorded_at": null,
+          "menu_recorded_at_precision": "UNKNOWN",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [],
+          "supplements": [],
+          "pairings": [],
+          "source_ids": [
+            "src_michelin_bombana"
+          ],
+          "overall_confidence": "LOW",
+          "primary_evidence_type": "AUTHORITATIVE_SECONDARY",
+          "uncertainties": [
+            "The live Michelin listing confirms lunch set menus but publishes no current price, items, sections, or date of menu confirmation."
+          ]
+        },
+        {
+          "id": "bombana-tasting-current-listing",
+          "name": "8-course tasting menu",
+          "menu_type": "TASTING_MENU",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_michelin_bombana",
+          "record_status": "CURRENT_LISTING_NO_PRICE",
+          "content_variability": "UNKNOWN",
+          "price": {
+            "amount": null,
+            "currency": "UNKNOWN",
+            "scope": "PER_PERSON",
+            "source_id": null
+          },
+          "price_options": [],
+          "menu_recorded_at": null,
+          "menu_recorded_at_precision": "UNKNOWN",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [],
+          "supplements": [],
+          "pairings": [],
+          "source_ids": [
+            "src_michelin_bombana"
+          ],
+          "overall_confidence": "LOW",
+          "primary_evidence_type": "AUTHORITATIVE_SECONDARY",
+          "uncertainties": [
+            "The live Michelin listing confirms an 8-course tasting menu but publishes no current price, dish sequence, or menu-recorded date."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src_official_shanghai_branch",
+          "evidence_type": "OFFICIAL",
+          "label": "8½ Otto e Mezzo BOMBANA official Shanghai branch page",
+          "url_or_artifact": "https://www.ottoemezzobombana.com/branch/shanghai/",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "official website",
+            "Shanghai address",
+            "telephone and email",
+            "current posted lunch and dinner hours",
+            "operating status"
+          ]
+        },
+        {
+          "id": "src_michelin_bombana",
+          "evidence_type": "AUTHORITATIVE_SECONDARY",
+          "label": "Michelin Guide - 8½ Otto e Mezzo Bombana Shanghai",
+          "url_or_artifact": "https://guide.michelin.com/us/en/shanghai-municipality/shanghai/restaurant/8-%C2%BD-otto-e-mezzo-bombana",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "Italian cuisine",
+            "lunch set menu existence",
+            "8-course tasting menu existence",
+            "truffle feast mention",
+            "reservation-widget link"
+          ]
+        },
+        {
+          "id": "src_mozrest_reservation_widget",
+          "evidence_type": "RESERVATION_PLATFORM",
+          "label": "Mozrest reservation widget linked from Michelin",
+          "url_or_artifact": "https://widget.mozrest.com/?bgColor=ffffffff&key=619e53c7b964bafe32e3e87c&rpId=506702",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "a reservation interface is linked from the Michelin listing"
+          ],
+          "limitations": [
+            "No target-date inventory, price, or menu was readable from the widget."
+          ]
+        },
+        {
+          "id": "src_live2makan_a_la_carte_2025_10",
+          "evidence_type": "MEDIA_EDITORIAL",
+          "label": "Live2Makan a-la-carte dinner observation",
+          "url_or_artifact": "https://live2makan.com/2025/10/11/8-1-2-otto-e-mezzo-bombana-shanghai/",
+          "traceability_status": "VERIFIED",
+          "published_at": "2025-10-11",
+          "published_at_precision": "DAY",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "historical a-la-carte availability",
+            "historical Scampo starter",
+            "historical Linguine pasta",
+            "historical Piccone main",
+            "historical Chicco dessert"
+          ],
+          "limitations": [
+            "No individual item prices were published; this record does not establish the 2026-10-03 menu."
+          ]
+        }
+      ],
+      "migration": {
+        "migrated_from": "V1.2 stress-test extension",
+        "migration_date": "2026-10-03",
+        "information_loss": false
+      }
+    },
+    {
+      "schema_version": "V1.3.1 FROZEN",
+      "target_date": "2026-10-05",
+      "ingested_at": "2026-10-05",
+      "page_updated_at": null,
+      "restaurant": {
+        "name": "Da Vittorio Shanghai",
+        "city": "Shanghai",
+        "location_text": "3F, N3 Building, 600 Zhongshan Dong Er Road, Huangpu District, Shanghai",
+        "official_url": "https://www.davittorio.com/en/restaurants/da-vittorio-shanghai.html",
+        "operating_status": "OPEN",
+        "operating_status_as_of": "2026-10-05",
+        "operating_status_source_id": "src_da_official_restaurant"
+      },
+      "menus": [
+        {
+          "id": "da-vittorio-sea-tasting",
+          "name": "The Sea of ‘Da Vittorio’ / Il Mare di ‘Da Vittorio’",
+          "menu_type": "TASTING_MENU",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_da_official_menu_pdf",
+          "record_status": "CURRENT_CONFIRMED",
+          "content_variability": "SEASONAL",
+          "price": {
+            "amount": 2388,
+            "currency": "CNY",
+            "scope": "PER_PERSON",
+            "source_id": "src_da_official_menu_pdf"
+          },
+          "price_options": [],
+          "menu_recorded_at": null,
+          "menu_recorded_at_precision": "UNKNOWN",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [],
+          "supplements": [],
+          "pairings": [
+            {
+              "type": "WINE",
+              "name": "Wine and beverages pairing experience",
+              "price": {
+                "amount": 1688,
+                "currency": "CNY",
+                "scope": "PER_PERSON",
+                "source_id": "src_da_official_menu_pdf"
+              },
+              "source_id": "src_da_official_menu_pdf",
+              "course_mapping": "UNCONFIRMED"
+            }
+          ],
+          "source_ids": [
+            "src_da_official_menu_pdf"
+          ],
+          "overall_confidence": "HIGH",
+          "primary_evidence_type": "OFFICIAL",
+          "uncertainties": [
+            "The official PDF states that this menu is served in seven courses, but does not publish the individual course list.",
+            "The official PDF is currently linked by the official restaurant page, but does not state a publication date.",
+            "Wine and beverages plus a 10% service charge are excluded from the menu price."
+          ]
+        },
+        {
+          "id": "da-vittorio-without-borders-tasting",
+          "name": "Without Borders / Senza Confini",
+          "menu_type": "TASTING_MENU",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_da_official_menu_pdf",
+          "record_status": "CURRENT_CONFIRMED",
+          "content_variability": "SEASONAL",
+          "price": {
+            "amount": 3388,
+            "currency": "CNY",
+            "scope": "PER_PERSON",
+            "source_id": "src_da_official_menu_pdf"
+          },
+          "price_options": [],
+          "menu_recorded_at": null,
+          "menu_recorded_at_precision": "UNKNOWN",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [],
+          "supplements": [],
+          "pairings": [
+            {
+              "type": "WINE",
+              "name": "Wine and beverages pairing experience",
+              "price": {
+                "amount": 2188,
+                "currency": "CNY",
+                "scope": "PER_PERSON",
+                "source_id": "src_da_official_menu_pdf"
+              },
+              "source_id": "src_da_official_menu_pdf",
+              "course_mapping": "UNCONFIRMED"
+            },
+            {
+              "type": "WINE",
+              "name": "The legendary wine pairing experience",
+              "price": {
+                "amount": 4988,
+                "currency": "CNY",
+                "scope": "PER_PERSON",
+                "source_id": "src_da_official_menu_pdf"
+              },
+              "source_id": "src_da_official_menu_pdf",
+              "course_mapping": "UNCONFIRMED"
+            }
+          ],
+          "source_ids": [
+            "src_da_official_menu_pdf"
+          ],
+          "overall_confidence": "HIGH",
+          "primary_evidence_type": "OFFICIAL",
+          "uncertainties": [
+            "The official PDF states that this menu is served in twelve courses, but does not publish the individual course list.",
+            "Wine and beverages plus a 10% service charge are excluded from the menu price."
+          ]
+        },
+        {
+          "id": "da-vittorio-a-la-carte",
+          "name": "À la carte",
+          "menu_type": "A_LA_CARTE",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_da_official_menu_pdf",
+          "record_status": "CURRENT_CONFIRMED",
+          "content_variability": "SEASONAL",
+          "price": {
+            "amount": null,
+            "currency": "CNY",
+            "scope": "PER_ITEM",
+            "source_id": null
+          },
+          "price_options": [],
+          "menu_recorded_at": null,
+          "menu_recorded_at_precision": "UNKNOWN",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [
+            {
+              "id": "da-share-wagyu",
+              "sequence": 1,
+              "sequence_confidence": "CONFIRMED",
+              "name": "1.3 kg Roasted Wagyu Mayura bone in ribeye and Italian style vegetables (up to 4 people)",
+              "description_or_components": [],
+              "price": {
+                "amount": 3688,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "TO SHARE",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-share-fish-salad",
+              "sequence": 2,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Warm steamed fish salad (2 people)",
+              "description_or_components": [
+                "Fresh fish and crustaceans selection with seasonal vegetables"
+              ],
+              "price": {
+                "amount": 1188,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "TO SHARE",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-share-catalana",
+              "sequence": 3,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Crustaceans Catalana (up to 4 people)",
+              "description_or_components": [
+                "Freshly inspired by coastal flavors"
+              ],
+              "price": {
+                "amount": 3888,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "TO SHARE",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-share-catch",
+              "sequence": 4,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Catch of the day, Mediterranean style (up to 4 people)",
+              "description_or_components": [],
+              "price": {
+                "amount": null,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "TO SHARE",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-starter-tartare",
+              "sequence": 5,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Black Angus tenderloin tartare",
+              "description_or_components": [],
+              "price": {
+                "amount": 618,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "STARTERS",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-starter-abalone",
+              "sequence": 6,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Barbecued New Zealand abalone",
+              "description_or_components": [
+                "dashi",
+                "Superior Oscietra caviar"
+              ],
+              "price": {
+                "amount": 618,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "STARTERS",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-starter-fish",
+              "sequence": 7,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Variety of fresh fish of the day",
+              "description_or_components": [],
+              "price": {
+                "amount": 868,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "STARTERS",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-starter-egg",
+              "sequence": 8,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Egg ‘à la Egg’",
+              "description_or_components": [],
+              "price": {
+                "amount": 988,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "STARTERS",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-first-ravioli",
+              "sequence": 9,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Ravioli ‘di cortile’",
+              "description_or_components": [
+                "carabineros",
+                "ginger and basil flavored consommé"
+              ],
+              "price": {
+                "amount": 588,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "FIRST COURSES",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-first-risotto",
+              "sequence": 10,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Risotto riserva Acquerello",
+              "description_or_components": [
+                "wild Yunnan mushrooms",
+                "hazelnut praliné"
+              ],
+              "price": {
+                "amount": 888,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "FIRST COURSES",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-first-fusilloni",
+              "sequence": 11,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Fusilloni pasta",
+              "description_or_components": [
+                "Alaskan king crab",
+                "kiwi",
+                "squid ink"
+              ],
+              "price": {
+                "amount": null,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "FIRST COURSES",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-first-linguine",
+              "sequence": 12,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Linguine pasta ‘Amatripesce’",
+              "description_or_components": [
+                "fish maw",
+                "pil pil sauce"
+              ],
+              "price": {
+                "amount": 798,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "FIRST COURSES",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-main-lobster",
+              "sequence": 13,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Brittany blue lobster ‘alla Clessidra’",
+              "description_or_components": [
+                "artichokes ‘alla Romana’",
+                "shiso",
+                "wasabi"
+              ],
+              "price": {
+                "amount": 918,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "FISH AND MEAT",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-main-pigeon",
+              "sequence": 14,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Chongming pigeon",
+              "description_or_components": [
+                "koji",
+                "pistachio",
+                "black garlic"
+              ],
+              "price": {
+                "amount": 588,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "FISH AND MEAT",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-main-wagyu",
+              "sequence": 15,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Wagyu M7 beef tenderloin",
+              "description_or_components": [
+                "porcini mushroom",
+                "black truffle"
+              ],
+              "price": {
+                "amount": 1388,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "FISH AND MEAT",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-main-lamb",
+              "sequence": 16,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Ningxia milk fed lamb",
+              "description_or_components": [
+                "dill",
+                "sea urchin"
+              ],
+              "price": {
+                "amount": 658,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "FISH AND MEAT",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            },
+            {
+              "id": "da-main-croaker",
+              "sequence": 17,
+              "sequence_confidence": "CONFIRMED",
+              "name": "Barbecued yellow croaker",
+              "description_or_components": [
+                "homemade XO sauce",
+                "white turnip"
+              ],
+              "price": {
+                "amount": 798,
+                "currency": "CNY",
+                "scope": "PER_ITEM"
+              },
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "FISH AND MEAT",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_da_official_menu_pdf"
+            }
+          ],
+          "supplements": [],
+          "pairings": [],
+          "source_ids": [
+            "src_da_official_menu_pdf"
+          ],
+          "overall_confidence": "HIGH",
+          "primary_evidence_type": "OFFICIAL",
+          "uncertainties": [
+            "The official PDF is a seasonal, market-dependent menu and does not state a publication date.",
+            "Only source-explicit dish prices are stored. The source text did not allow an unambiguous price assignment for every listed item; those amounts remain null.",
+            "All listed food prices exclude the official 10% service charge."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src_da_official_restaurant",
+          "evidence_type": "OFFICIAL",
+          "label": "Da Vittorio Shanghai official restaurant page",
+          "url_or_artifact": "https://www.davittorio.com/en/restaurants/da-vittorio-shanghai.html",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-05",
+          "facts_supported": [
+            "official Shanghai address",
+            "Italian and seafood-focused positioning",
+            "Tuesday-Sunday lunch and dinner hours",
+            "official menu link",
+            "official reservation link"
+          ]
+        },
+        {
+          "id": "src_da_official_menu_pdf",
+          "evidence_type": "OFFICIAL",
+          "label": "Da Vittorio Shanghai official food menu PDF",
+          "url_or_artifact": "https://www.davittorio.com/images/davittorio/ristorante/shanghai/menu/Menu%20Ristorante%20-%20Inglese.pdf",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-05",
+          "facts_supported": [
+            "two tasting menus",
+            "tasting prices",
+            "pairing prices",
+            "à-la-carte sections",
+            "individual à-la-carte dishes and explicit prices",
+            "market/seasonality note",
+            "10% service-charge exclusion"
+          ]
+        },
+        {
+          "id": "src_da_reservation_platform",
+          "evidence_type": "RESERVATION_PLATFORM",
+          "label": "Resvea reservation page linked by Da Vittorio official page",
+          "url_or_artifact": "https://resvea.com/en/restaurant/davittorioshanghai/",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-05",
+          "facts_supported": [
+            "reservation pathway"
+          ],
+          "limitations": [
+            "No live availability was captured."
+          ]
+        }
+      ]
+    },
+    {
+      "schema_version": "V1.3.1 FROZEN",
+      "target_date": "2026-10-03",
+      "ingested_at": "2026-10-03",
+      "page_updated_at": null,
+      "restaurant": {
+        "name": "Yi Long Court / 逸龙阁",
+        "city": "Shanghai",
+        "location_text": "2/F, The Peninsula Shanghai, No. 32 The Bund, 32 Zhongshan Dong Yi Road, Huangpu District, Shanghai",
+        "official_url": "https://www.peninsula.com/en/shanghai/hotel-fine-dining/yi-long-court",
+        "operating_status": "OPEN",
+        "operating_status_as_of": "2026-10-03",
+        "operating_status_source_id": "src_ylc_official_restaurant"
+      },
+      "menus": [
+        {
+          "id": "ylc-a-la-carte-current-listing",
+          "name": "À la carte menu",
+          "menu_type": "A_LA_CARTE",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_ylc_official_restaurant",
+          "record_status": "CURRENT_LISTING_NO_PRICE",
+          "content_variability": "UNKNOWN",
+          "price": {
+            "amount": null,
+            "currency": "CNY",
+            "scope": "PER_ITEM",
+            "source_id": null
+          },
+          "price_options": [],
+          "menu_recorded_at": null,
+          "menu_recorded_at_precision": "UNKNOWN",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [],
+          "supplements": [],
+          "pairings": [],
+          "source_ids": [
+            "src_ylc_official_restaurant"
+          ],
+          "overall_confidence": "HIGH",
+          "primary_evidence_type": "OFFICIAL",
+          "uncertainties": [
+            "The current official restaurant page lists an à-la-carte menu, but no current readable item-and-price list was captured in this ingestion."
+          ]
+        },
+        {
+          "id": "ylc-dim-sum-lunch-degustation",
+          "name": "Dim Sum Lunch Degustation Menu / 午膳点心赏味菜单",
+          "menu_type": "LUNCH_MENU",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_ylc_dim_sum_pdf",
+          "record_status": "CURRENT_CONFIRMED",
+          "content_variability": "SEASONAL",
+          "price": {
+            "amount": 298,
+            "currency": "CNY",
+            "scope": "PER_PERSON",
+            "source_id": "src_ylc_dim_sum_pdf"
+          },
+          "price_options": [],
+          "menu_recorded_at": null,
+          "menu_recorded_at_precision": "UNKNOWN",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [
+            {
+              "id": "ylc-dim-sum-1",
+              "sequence": 1,
+              "sequence_confidence": "CONFIRMED",
+              "name": "鲜肉小笼包 / Steamed pork dumpling ‘Xiao Long Bao’",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "Dim Sum Combination",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_ylc_dim_sum_pdf"
+            },
+            {
+              "id": "ylc-dim-sum-2",
+              "sequence": 2,
+              "sequence_confidence": "CONFIRMED",
+              "name": "紫薯咸水角 / Deep-fried purple yam dumpling with chicken",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "Dim Sum Combination",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_ylc_dim_sum_pdf"
+            },
+            {
+              "id": "ylc-dim-sum-3",
+              "sequence": 3,
+              "sequence_confidence": "CONFIRMED",
+              "name": "鲜笋虾饺皇 / Steamed shrimp dumpling with bamboo shoots",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "Dim Sum Combination",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_ylc_dim_sum_pdf"
+            },
+            {
+              "id": "ylc-dim-sum-4",
+              "sequence": 4,
+              "sequence_confidence": "CONFIRMED",
+              "name": "澳洲和牛春卷 / Deep-fried spring roll with Australian wagyu beef, cheese and radish",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "Dim Sum Combination",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_ylc_dim_sum_pdf"
+            },
+            {
+              "id": "ylc-dim-sum-5",
+              "sequence": 5,
+              "sequence_confidence": "CONFIRMED",
+              "name": "是日老火汤 / Daily Soup",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_ylc_dim_sum_pdf"
+            },
+            {
+              "id": "ylc-dim-sum-6",
+              "sequence": 6,
+              "sequence_confidence": "CONFIRMED",
+              "name": "清炒时令蔬菜 / Wok-fried Seasonal Vegetables",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_ylc_dim_sum_pdf"
+            },
+            {
+              "id": "ylc-dim-sum-7",
+              "sequence": 7,
+              "sequence_confidence": "CONFIRMED",
+              "name": "X.O.酱海鲜焖饭 / Braised Seafood Fried Rice in X.O Chili Sauce",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_ylc_dim_sum_pdf"
+            },
+            {
+              "id": "ylc-dim-sum-8",
+              "sequence": 8,
+              "sequence_confidence": "CONFIRMED",
+              "name": "莲子红豆沙 / Sweetened Red Bean Soup with Lotus Seed",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_ylc_dim_sum_pdf"
+            }
+          ],
+          "supplements": [],
+          "pairings": [],
+          "source_ids": [
+            "src_ylc_official_offer",
+            "src_ylc_dim_sum_pdf"
+          ],
+          "overall_confidence": "HIGH",
+          "primary_evidence_type": "OFFICIAL",
+          "uncertainties": [
+            "The official PDF says that individual dishes may change from time to time.",
+            "The official documents do not state a publication date; menu_recorded_at remains unknown.",
+            "The stated price is subject to a 16.6% surcharge."
+          ]
+        },
+        {
+          "id": "ylc-chef-jacky-tasting-with-tea",
+          "name": "Chef Jacky's Signature Tasting with Tea Menu / 张师傅赏味品茗菜单",
+          "menu_type": "TASTING_MENU",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_ylc_tasting_tea_pdf",
+          "record_status": "CURRENT_CONFIRMED",
+          "content_variability": "SEASONAL",
+          "price": {
+            "amount": 988,
+            "currency": "CNY",
+            "scope": "PER_PERSON",
+            "source_id": "src_ylc_tasting_tea_pdf"
+          },
+          "price_options": [],
+          "menu_recorded_at": null,
+          "menu_recorded_at_precision": "UNKNOWN",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [
+            {
+              "id": "ylc-tasting-1",
+              "sequence": 1,
+              "sequence_confidence": "CONFIRMED",
+              "name": "精选三喜前菜 / Appetizer Platter",
+              "description_or_components": [
+                "生拆蟹钳饺 / steamed crab claw dumpling",
+                "蜜汁叉烧件 / barbecued pork with honey",
+                "翡翠海螺片 / chilled sea conch with luffa"
+              ],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "Appetizer Platter",
+              "section_confidence": "CONFIRMED",
+              "source_id": "src_ylc_tasting_tea_pdf"
+            },
+            {
+              "id": "ylc-tasting-2",
+              "sequence": 2,
+              "sequence_confidence": "CONFIRMED",
+              "name": "无花果瑶柱炖花胶筒 / Double-boiled Fish Maw with Figs and Conpoy Soup",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_ylc_tasting_tea_pdf"
+            },
+            {
+              "id": "ylc-tasting-3",
+              "sequence": 3,
+              "sequence_confidence": "CONFIRMED",
+              "name": "黑醋脆鳞银鳕鱼 / Deep-fried Black Cod Fillet with Dark Vinegar Sauce",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_ylc_tasting_tea_pdf"
+            },
+            {
+              "id": "ylc-tasting-4",
+              "sequence": 4,
+              "sequence_confidence": "CONFIRMED",
+              "name": "京葱爆炒雪龙牛肉配清炒时蔬 / Wok-fried Snow Dragon Beef Fillet with Leek and Stir-fried Seasonal Vegetables",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_ylc_tasting_tea_pdf"
+            },
+            {
+              "id": "ylc-tasting-5",
+              "sequence": 5,
+              "sequence_confidence": "CONFIRMED",
+              "name": "瑶柱蛋白炒饭 / Fried Rice with Conpoy and Egg White",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_ylc_tasting_tea_pdf"
+            },
+            {
+              "id": "ylc-tasting-6",
+              "sequence": 6,
+              "sequence_confidence": "CONFIRMED",
+              "name": "红枣炖银耳伴燕窝鸡蛋挞 / Red Dates with White Fungus Soup and Mini Egg Tart with Bird’s Nest",
+              "description_or_components": [],
+              "price": null,
+              "role": "UNKNOWN",
+              "role_confidence": "UNCONFIRMED",
+              "section": "UNKNOWN",
+              "section_confidence": "UNCONFIRMED",
+              "source_id": "src_ylc_tasting_tea_pdf"
+            }
+          ],
+          "supplements": [],
+          "pairings": [
+            {
+              "type": "TEA",
+              "name": "茉莉龙珠绿茶 / Jasmine Dragon Ball Green Tea",
+              "price": {
+                "amount": null,
+                "currency": "CNY",
+                "scope": "UNKNOWN",
+                "source_id": null
+              },
+              "source_id": "src_ylc_tasting_tea_pdf",
+              "course_mapping": "UNCONFIRMED"
+            },
+            {
+              "type": "TEA",
+              "name": "正山小种红茶 / Lapsang Souchong Black Tea",
+              "price": {
+                "amount": null,
+                "currency": "CNY",
+                "scope": "UNKNOWN",
+                "source_id": null
+              },
+              "source_id": "src_ylc_tasting_tea_pdf",
+              "course_mapping": "UNCONFIRMED"
+            }
+          ],
+          "source_ids": [
+            "src_ylc_official_offer",
+            "src_ylc_tasting_tea_pdf"
+          ],
+          "overall_confidence": "HIGH",
+          "primary_evidence_type": "OFFICIAL",
+          "uncertainties": [
+            "The official PDF says that individual dishes may change from time to time.",
+            "The source lists tea within the menu but does not publish a separate tea-pairing price or an explicit course mapping.",
+            "The stated price is subject to a 16.6% surcharge."
+          ]
+        },
+        {
+          "id": "ylc-family-style-peking-duck-set",
+          "name": "Family-Style Set Menu",
+          "menu_type": "SET_MENU",
+          "menu_type_confidence": "CONFIRMED",
+          "menu_type_source_id": "src_ylc_official_offer",
+          "record_status": "CURRENT_CONFIRMED",
+          "content_variability": "UNKNOWN",
+          "price": {
+            "amount": 2088,
+            "currency": "CNY",
+            "scope": "PER_MENU",
+            "source_id": "src_ylc_official_offer"
+          },
+          "price_options": [],
+          "menu_recorded_at": null,
+          "menu_recorded_at_precision": "UNKNOWN",
+          "opening": [],
+          "courses": [],
+          "pre_dessert": [],
+          "dessert": [],
+          "petit_fours": [],
+          "menu_items": [],
+          "supplements": [],
+          "pairings": [],
+          "source_ids": [
+            "src_ylc_official_offer"
+          ],
+          "overall_confidence": "HIGH",
+          "primary_evidence_type": "OFFICIAL",
+          "uncertainties": [
+            "The official offer confirms Peking Duck, dumplings, soups, noodles and wok-fried specialties, but a full ordered item list was not retained in this record.",
+            "¥2,088 is explicitly for four people and is not converted to a per-person figure.",
+            "The stated price is subject to a 16.6% surcharge."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src_ylc_official_restaurant",
+          "evidence_type": "OFFICIAL",
+          "label": "Yi Long Court official restaurant page",
+          "url_or_artifact": "https://www.peninsula.com/en/shanghai/hotel-fine-dining/yi-long-court",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "Cantonese cuisine",
+            "Shanghai address",
+            "opening hours",
+            "dress code",
+            "a-la-carte and dim-sum menu links",
+            "reservation path",
+            "current operation"
+          ]
+        },
+        {
+          "id": "src_ylc_official_offer",
+          "evidence_type": "OFFICIAL",
+          "label": "The Peninsula Shanghai official Yi Long Court set-menu offer",
+          "url_or_artifact": "https://www.peninsula.com/en/shanghai/special-offers/dining/sumptuous-set-menus-at-yi-long-court",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "family-style set menu and ¥2,088 for four people",
+            "dim-sum lunch menu and ¥298 per person",
+            "Chef Jacky tasting menu and ¥988 per person",
+            "16.6% surcharge",
+            "reservation path"
+          ]
+        },
+        {
+          "id": "src_ylc_dim_sum_pdf",
+          "evidence_type": "OFFICIAL",
+          "label": "Yi Long Court official Dim Sum Lunch Degustation Menu PDF",
+          "url_or_artifact": "https://www.peninsula.com/-/media/files/shanghai/menu/2026/yi-long-court/0413/2026-ylc-set-menu.pdf",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "dim-sum lunch title",
+            "ordered menu items",
+            "Dim Sum Combination section",
+            "¥298 per person",
+            "individual dishes may change"
+          ]
+        },
+        {
+          "id": "src_ylc_tasting_tea_pdf",
+          "evidence_type": "OFFICIAL",
+          "label": "Yi Long Court official Chef Jacky's Signature Tasting with Tea Menu PDF",
+          "url_or_artifact": "https://www.peninsula.com/-/media/files/shanghai/menu/2026/yi-long-court/0929/2026-ylc-set-menu-988pp.pdf",
+          "traceability_status": "VERIFIED",
+          "published_at": null,
+          "published_at_precision": "UNKNOWN",
+          "retrieved_at": "2026-10-03",
+          "facts_supported": [
+            "tasting-with-tea title",
+            "ordered menu items",
+            "tea names",
+            "¥988 per person",
+            "individual dishes may change"
+          ]
+        }
+      ]
+    }
+  ]
+}

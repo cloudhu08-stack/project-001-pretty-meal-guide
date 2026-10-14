@@ -1,0 +1,12 @@
+{
+  "name": "pretty-meal-guide",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/prepare-production.mjs",
+    "start": "node scripts/serve-local.mjs",
+    "deploy:mirror": "npm run build && npx --yes --registry=https://registry.npmjs.org wrangler@4.147.0 pages deploy dist --project-name pretty-meal-guide-mirror --branch main"
+  },
+  "engines": { "node": ">=22" }
+}
